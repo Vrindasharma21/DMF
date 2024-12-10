@@ -1,0 +1,129 @@
+/* To better understand the box model, we use pure CSS without frameworks */
+
+a {
+  text-decoration: none;
+}
+
+.qoute {
+  background-color: #2C9F97; 
+  text-align: center;
+  padding: 1em 0; 
+  margin: 0; 
+  line-height: 0; 
+}
+
+.main-title a {
+  font: 6vw 'Impact', sans-serif;
+  word-spacing: 1vw;
+  color: black; 
+}
+.main-title a:hover {
+  color: #2C9F97; /* Keeps the hover effect as green */
+}
+
+.card-body a:hover{
+  color: #2C9F97; 
+}
+
+.sub {
+  color: #CE9C3F;
+  font: 2.5vw;
+  word-spacing: 0.01vw;
+}
+.blog-title a:hover {
+  color: #2C9F97; /* Keeps the hover effect as green */
+}
+
+
+.icon, .cover, .card img {
+  max-width: 100%; 
+  height: auto; 
+  object-fit: cover; 
+  display: block; 
+  margin: 0; 
+}
+
+.nav-link {
+  color: black; /* Sets the text color to black */
+  font-weight: bold; /* Makes the text bold */
+}
+
+.nav-link:hover {
+  color: #2C9F97; /* Keeps the hover effect as green */
+}
+
+.nav-item.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.blog-title a {
+  color: #CE9C3F;
+  font: 3vw;
+  text-decoration: none;
+}
+
+body{
+  background-color: #EEEEEE ;
+  font: 20px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+}
+
+.blog-body{
+  margin-left: auto; margin-right: auto; width: 60% ;
+}
+
+.blog-body a {
+  color: #CE9C3F;
+  text-decoration: none;
+}
+
+.other-posts, .comments-title{
+  font-size: 2vw ;
+  margin-bottom: 0.1vw ;
+}
+
+hr{
+  border: none; 
+  height: 2px; 
+  background-color: black ;
+  margin: 10px 0;
+}
+
+footer{
+  background-color: #2C9F97;
+  text-align: center;
+  padding: 1em 0; 
+  margin: 0; 
+  line-height: 0; 
+}
+
+.card{
+  width: 29vw;
+  background-color: #EEEEEE;
+  border: 0.15vw solid black;
+  border-radius: 0px;
+  margin: 0.5vw ;
+  padding: 0;
+}
+
+.card-title{
+  color: #CE9C3F;
+}
+
+.card-title a:hover {
+  color: #2C9F97;
+}
+
+.other-links, .main-links{
+  margin-left: auto; margin-right: auto; width: 60% ;
+  margin-bottom: 1vw ;
+}
+
+.comments{
+  margin-left: auto; margin-right: auto; width: 60% ;
+  margin-bottom: 1vw ;
+}
+
+.nav-link:hover{
+  color: #2C9F97 ; 
+}
