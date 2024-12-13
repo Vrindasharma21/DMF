@@ -3,100 +3,73 @@
 a {
   text-decoration: none;
 }
-
+/* QUOTE */
 .qoute {
   background-color: #2C9F97; 
   text-align: center;
-  padding: 1em 0; 
+  padding: 0.9em 0; 
   margin: 0; 
   line-height: 0; 
+  border: 0;
 }
-
-.main-title a {
-  font: 6vw 'Impact', sans-serif;
-  word-spacing: 1vw;
-  color: black; 
-}
-.main-title a:hover {
-  color: #2C9F97; /* Keeps the hover effect as green */
-}
-
-.card-body a:hover{
-  color: #2C9F97; 
-}
-
-.sub {
-  color: #CE9C3F;
-  font: 2.5vw;
-  word-spacing: 0.01vw;
-}
-.blog-title a:hover {
-  color: #2C9F97; /* Keeps the hover effect as green */
-}
-
-
-.icon, .cover, .card img {
-  max-width: 100%; 
+/* ICON */
+.site-icon{
+  max-width: 27%; 
   height: auto; 
   object-fit: cover; 
   display: block; 
+  margin: center; 
+  padding: 0;
+  border: 0;
+}
+/* MENUBAR */
+.menubar,.other-posts{
+  background-color: #2C9F97; 
+  text-align: center;
+  padding: 0.5em 0; 
   margin: 0; 
+  line-height: 0; 
+  border: 0;
 }
-
 .nav-link {
-  color: black; /* Sets the text color to black */
-  font-weight: bold; /* Makes the text bold */
+  color: black; 
+  font-weight: bold; 
+  font-size: large;
 }
-
 .nav-link:hover {
-  color: #2C9F97; /* Keeps the hover effect as green */
+  color: #EEEEEE; 
 }
 
-.nav-item.dropdown:hover .dropdown-menu {
-  display: block;
-}
-
+/* BLOG BODY */
 .blog-title a {
   color: #CE9C3F;
   font: 3vw;
   text-decoration: none;
 }
-
+.blog-title a:hover {
+  color: red; 
+  /* why is this not working */
+}
 body{
   background-color: #EEEEEE ;
-  font: 20px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font: 18px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
 }
-
 .blog-body{
   margin-left: auto; margin-right: auto; width: 60% ;
 }
-
 .blog-body a {
   color: #CE9C3F;
   text-decoration: none;
 }
 
-.other-posts, .comments-title{
-  font-size: 2vw ;
-  margin-bottom: 0.1vw ;
+.other-links a{
+  color: #CE9C3F;
+  font-weight: bold;
 }
-
-hr{
-  border: none; 
-  height: 2px; 
-  background-color: black ;
-  margin: 10px 0;
+.other-links a:hover {
+  color: #2C9F97;
 }
-
-footer{
-  background-color: #2C9F97;
-  text-align: center;
-  padding: 1em 0; 
-  margin: 0; 
-  line-height: 0; 
-}
-
 .card{
   width: 29vw;
   background-color: #EEEEEE;
@@ -106,24 +79,9 @@ footer{
   padding: 0;
 }
 
-.card-title{
-  color: #CE9C3F;
-}
-
-.card-title a:hover {
-  color: #2C9F97;
-}
-
-.other-links, .main-links{
+.other-links{
   margin-left: auto; margin-right: auto; width: 60% ;
   margin-bottom: 1vw ;
 }
 
-.comments{
-  margin-left: auto; margin-right: auto; width: 60% ;
-  margin-bottom: 1vw ;
-}
 
-.nav-link:hover{
-  color: #2C9F97 ; 
-}
