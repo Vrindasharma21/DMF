@@ -155,30 +155,6 @@ body{
 .other-links a:hover {
   color: #2C9F97;
 }
-/* .card{
-  width: 29vw;
-  background-color: #EEEEEE;
-  border: 0.15vw solid black;
-  border-radius: 0px;
-  margin: 0.5vw ;
-  padding: 0;
-}
-
-@media (max-width: 768px) { 
-  .other-links {
-    max-width: 100%;
-    gap: 0; 
-  }
-
-  .card {
-    width: 29vw;
-    background-color: #EEEEEE;
-    border: 0.15vw solid black;
-    border-radius: 0px;
-    margin: 0.5vw ;
-    padding: 0;
-  }
-} */
 
 .card-body {
   padding: 0.5rem; 
