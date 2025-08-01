@@ -105,15 +105,16 @@ a {
 
 
 /* BLOG BODY */
-.blog-title a {
+.blog-title {
   color: #CE9C3F;
   font: 200px;
   text-decoration: none;
 }
-.blog-title a:hover {
-  color: red; 
-  /* why is this not working */
-}
+
+/* .blog-title a:hover {
+  color: red; }
+*/
+
 body{
   background-color: #EEEEEE ;
   font: 18px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
