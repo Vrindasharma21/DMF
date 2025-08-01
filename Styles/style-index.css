@@ -13,14 +13,6 @@ a {
 
 @media (max-width: 680px) { 
   .qoute {
-    /* 
-    line-height:1 ; 
-    word-wrap: break-word;
-    border: 0;
-    background-color: #2C9F97; 
-    text-align: center;
-    margin: 0; 
-    padding-bottom: 0; */
     font-size: medium;
   }
 }
@@ -106,14 +98,10 @@ a {
 
 /* BLOG BODY */
 .blog-title {
-  color: red;
-  font: 200px;
+  color:  #CE9C3F;
+  font: 200px; /* It won't matter because this is all under blog-body.*/ 
   text-decoration: none;
 }
-
-/* .blog-title a:hover {
-  color: red; }
-*/
 
 body{
   background-color: #EEEEEE ;
