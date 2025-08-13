@@ -127,8 +127,15 @@ body{
 
 @media (max-width: 768px) {
   .blog-body {
-    max-width: 100%; 
-    /* padding: 0.5em;  */
+    max-width: 100%;
+    padding: 0 1rem; /* Adds margins inside on phones */
+  }
+}
+
+@media (max-width: 400px) {
+  .blog-body {
+    max-width: 100%;
+    padding: 0 0.75rem; /* Slightly smaller padding on very small screens */
   }
 }
 
