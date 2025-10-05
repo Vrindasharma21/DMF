@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset = "utf-8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>.D.M.F.</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="../Styles/style-index.css"> 
+  </head>
+
+  <body>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+  <header id = "header" >
+
+    <!-- THE QUOTE  -->
+    <div class="container-fluid border pb-sm-0 qoute"> 
+        <p>
+          For all anxiety attacks, there exists a blog that prevents its recurrence
+        </p>
+    </div>
+
+    <!-- THE ICON -->
+    <div class = "container - fluid site-icon border">
+      <div class = "text-center">
+        <a href="../index.html"><img src ="../Images/icon.png" class="img-fluid" alt = "the article logo"></a>
+      </div>
+    </div>
+
+    <!-- THE MENU -->
+    <div class="container-fluid border menubar">
+      <ul class="nav justify-content-center">
+        <li class="nav-item">
+          <a class="nav-link" aria-current="page" href="reviews.html" class="link-dark">reviews</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="personal-blogs.html">personal-blogs</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="useful-blogs.html">useful-blogs</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" aria-current="page" href="about.html">about</a>
+        </li>
+      </ul>
+  </div>
+  </header>
+
+  <main>
+    <article>
+      <section class="blog-body pt-3 ">
+        <p class = "container border">
+        <div class ="blog-title"><strong>Why the author of ‘why men and women cant be friends’ cant be my friend </strong></div>
+        <p>
+          In our present age of the surplus, we interact with many ideas and thoughts on a daily basis. It is unreasonable to expect that we are moved by all of them. Yes, human sensitivity maybe on the decline. Yet it is not fully destroyed. There still are ideas that can make one leave behind all the stress, dance through life and love all people. There also are ideas that can make one grab a hockey and beat the shit out of anyone who advertises those ideas. At this peculiar juncture in my life, critiquing is more natural than appreciating. I, personally cant resist talking about ideas that deserve public hockey persecution. The act of reviewing the book ’why men and women cant be friends’ presents itself as one such opportunity.  
+        </p>
+
+        <p>
+          Why men and women cant be friends is a book written by the German-American author Oliver Marcus Malloy. He is a middle aged, white man who clearly knows his audience and what they want to read. And also what they want to see since the cover of the book is the picture of a banana laden with red lipstick marks. It is a short book with about 18 chapters of 2-3 pages each. The book couldn’t have had more pages because if the author had tried to do so, he would have had to bring in more perspectives, perspectives that had depth, perspectives that force one to be thoughtful and considerate, unmanly qualities he clearly has no interest in. The book claims that its contents will expose men to women. That everything written in this book is a gospel truth about men. Let’s talk about a few such ‘supposed’ truths : 
+        </p>
+
+        <ul>
+          <li> Law and order, and a man-made invention called civilisation, are the only things stopping men from doing to women what we have done for tens of thousands of years. (Here, he is talking about having sex with multiple women irrespective of their consent).
+          </li>
+
+          <li> If your male "friend" chooses to spend his time and money on you, it's because he thinks there is a chance it might pay off in sex at some point.
+          </li>
+
+          <li> Romance and courtship is to a man: hoops we have to jump through to get laid.
+          </li>
+
+          <li> If it wasn't for sex, men wouldn't even talk to women.
+          </li>
+
+          <li> We men want to spread our seed, and you women want to build a comfortable, stable nest for your offspring.
+          </li>
+        </ul>
+
+        <p>
+          These are some of the core philosophies of the book. A very very rudimentary, minimum thought expenditure analysis of any argument of the book will bring one to one of these ‘truths’. And our man Oliver very proudly proposes and promotes this singular, animalistic understanding of the male-female interaction in the human society. The book looks like a lazy justification for moral lapses and shit character of men who cheat in marriages, befriend girls to get laid, and view women merely as sexual objects. While the theories of the book can be used to explain why genders tend to behave the way they do, it definitely cant be used as an excuse for inhuman behaviour of men towards women. And vice versa also. He doesn’t explain, but justifies why women prefer men with more money and why men prefer women with bigger breasts. There absolutely is no attempt to look beyond this apparent ‘scientific’ perspective, and consider things like the human consciousness, compassion or kindness. Gender is assumed to be the chief element of any human’s identity and mating the sole aim of life. 
+        </p>
+
+        <p>
+          He says monogamy and feminism are recent ideas and hence, it is tough for our biological systems to adapt to them. This makes me wonder if it is tough for him to adapt to the other newer ideas of equality and universal adult franchise. Because most men, before the last 100 years had no rights of their own and were at the mercy of a monarch. There existed no freedom, power for all, dignity as it does now. Why is there selective adaptation to ideas ? Most of these outrageous claims of his, fall flat at the hands of basic logical questioning. Clearly, this man is trying to find absurd answers to uncomfortable, obvious questions pointed at patriarchy.
+        </p>
+        
+        <p>
+          I think not agreeing to these extreme ideas is a clear and easy litmus test. However, as a consequence of the newness of these ideas, there do exist grey zones in the understanding of gender differences. And this is someplace I’d like to wander about. Just as nationality, age, caste, language constitute our identity, so does our gender. And just as we discourage stereotyping people based on the former attributes, so should we in case of the latter. Today, I can imagine my life as someone from a different country/age/caste but never as someone from a different gender. Why should ‘qualities of my gender’ be such an integral part of me because of the norms of the society and not because I have internalised them as a human being. Many people argue that males and females are different and we should celebrate their difference, and thats what feminism is. I in fact, think that, all humans are very very different and gender is just another label, almost like a different starting point and feminism is treating everyone with basic human dignity irrespective of their gender. There are no hard, predictable differences that are ‘natural’. Humanity equips us with the capability to look beyond that. We can do better and we must do better. Heil Humanity ! 
+        </p>
+
+        <p>
+          I wouldn’t have cared to think much about this rubbish piece of media. However, two things made me talk about it. Just when I was reading this book, interestingly so, a male friend’s male superior at office also suggested them to read this book. This brought about some urgent questions. What sort of a workplace conversation would have brought about such a reading recommendation ? Why is this book such a sleeper cell hit amongst old, entitled men of power across regions ? Why is public recommendation of such books not shameful ? How do you listen to such a book title and not puke ? How did people approve this ? 
+        </p>
+
+      </section>
+    </article>
+    <article>
+      <!-- ARCHIVES TITLE -->
+      <div class="container-fluid border other-posts">
+        <ul class="nav justify-content-center">
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="archive.html" class="link-dark">archive</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="row other-links">       
+        
+        <div class="card">
+          <div class="card-body">
+            <a href="Drought in Monsoon.html"><strong> Drought in Monsoon </strong></a>
+            <p class="card-text"> While I am used to losing things, be it my bicycle, bag, phone, ID card, temper or friends, my tears have always come in very handy to me, until not. </p>
+          </div>
+        </div>          
+        
+        <div class="card">
+            <div class="card-body">
+            <a href="In Spite of the Gods.html"><strong>In Spite of the Gods </strong></a>
+            <p class="card-text">Judging by its cover and title, it seemed impressive, and I ended up ordering it </p>
+          </div>
+        </div>  
+
+      </div>
+    </article>
+
+  </main>
+
+    <footer id = "footer" >
+      <div class="container-fluid border pb-sm-0 qoute"> 
+        <p>
+          Work in Progress - small changes every now we learn smth new in web :\
+        </p>
+    </div>
+    </footer>
+
+  </body>
+</html> 
