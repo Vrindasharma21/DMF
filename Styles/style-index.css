@@ -226,3 +226,12 @@ body{
     flex-direction: column;
   }
 }
+
+.subscribe-box {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.subscribe-box p {
+  margin-bottom: 0;
+}
