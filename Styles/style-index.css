@@ -109,18 +109,6 @@ body{
   margin: 0;
 }
 
-@media (max-width: 600px) { 
-  .blog-body, .card-body{
-    font-size: large ;
-  }
-}
-
-@media (max-width: 400px) { 
-  .blog-body, .card-body{
-    font-size: small ;
-  }
-}
-
 .blog-body {
   margin-left: auto; margin-right: auto; max-width: 60% ;
 }
@@ -195,5 +183,46 @@ body{
   border-radius: 0px;
   /* margin: 0.5vw ; */
   padding: 0;
+  }
+}
+
+/* SUBSCRIBE FORM */
+.subscribe-form {
+  display: flex;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+.subscribe-form input[type="email"] {
+  flex: 1;
+  padding: 0.5rem;
+  border: 0.15vw solid black;
+  border-radius: 0;
+  background-color: #EEEEEE;
+  font: inherit;
+}
+
+.subscribe-form input[type="submit"] {
+  padding: 0.5rem 1rem;
+  border: 0.15vw solid black;
+  border-radius: 0;
+  background-color: #2C9F97;
+  color: black;
+  font: inherit;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.subscribe-form input[type="submit"]:hover {
+  background-color: #CE9C3F;
+}
+
+.subscribe-note {
+  font-size: 12px;
+}
+
+@media (max-width: 400px) {
+  .subscribe-form {
+    flex-direction: column;
   }
 }
